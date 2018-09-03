@@ -48,6 +48,7 @@ p {
 img.big-image {
 	max-width: 100%;
 	box-shadow: 0 10px 20px black;
+	border-radius: 15px;
 }
 
 p.caption {
